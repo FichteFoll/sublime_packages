@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "InsertDate",
+			"description": "Insert the current date/time according to given formatting or timezone",
+			"author": "FichteFoll",
+			"homepage": "https://github.com/FichteFoll/sublimetext-insertdate",
+			"last_modified": "2012-05-13 19:12:15",
+			"platforms": {
+				"*": [
+					{
+						"version": "0.3",
+						"url": "https://github.com/FichteFoll/sublimetext-insertdate/zipball/0.3"
+					}
+				]
+			}
+		}
+	]
+}
