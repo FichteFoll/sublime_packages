@@ -16,5 +16,20 @@
 				]
 			}
 		}
+		{
+			"name": "File History",
+			"description": "Provides access to the history of recently accessed files - project-wise or globally",
+			"author": "Josh Bjornson",
+			"homepage": "https://github.com/FichteFoll/sublimetext-filehistory",
+			"last_modified": "2012-06-14 20:22:18",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.1.0",
+						"url": "https://github.com/FichteFoll/sublimetext-filehistory/zipball/v1.1.0"
+					}
+				]
+			}
+		}
 	]
 }
