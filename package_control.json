@@ -30,6 +30,21 @@
 					}
 				]
 			}
+		},
+		{
+			"name": "InactivePanes",
+			"description": "(ST2/3) Dims (or grays) inactive panes in your group view",
+			"author": "adzenith, FichteFoll",
+			"homepage": "https://github.com/SublimeText/InactivePanes",
+			"last_modified": "2013-05-06 00:13:58",
+			"platforms": {
+				"*": [
+					{
+						"version": "0.2.0",
+						"url": "https://nodeload.github.com/SublimeText/InactivePanesy/zipball/v0.2.0"
+					}
+				]
+			}
 		}
 	]
 }
