@@ -6,12 +6,12 @@
 			"description": "Insert the current date/time according to given formatting or timezone",
 			"author": "FichteFoll",
 			"homepage": "https://github.com/FichteFoll/sublimetext-insertdate",
-			"last_modified": "2012-05-13 19:12:15",
+			"last_modified": "2013-07-12 17:46:00",
 			"platforms": {
 				"*": [
 					{
-						"version": "0.3",
-						"url": "https://nodeload.github.com/FichteFoll/sublimetext-insertdate/zipball/v0.3"
+						"version": "0.4.0",
+						"url": "https://nodeload.github.com/FichteFoll/sublimetext-insertdate/zipball/v0.4.0"
 					}
 				]
 			}
