@@ -1,50 +1,43 @@
 {
-	"schema_version": "1.2",
+	"schema_version": "2.0",
 	"packages": [
 		{
 			"name": "InsertDate",
 			"description": "Insert the current date/time according to given formatting or timezone",
-			"author": "FichteFoll",
-			"homepage": "https://github.com/FichteFoll/sublimetext-insertdate",
-			"last_modified": "2013-07-12 17:46:00",
-			"platforms": {
-				"*": [
-					{
-						"version": "0.4.0",
-						"url": "https://codeload.github.com/FichteFoll/sublimetext-insertdate/zip/v0.4.0"
-					}
-				]
-			}
+			"labels": ["text manipulation"],
+			"details": "https://github.com/FichteFoll/sublimetext-insertdate",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"details": "https://github.com/FichteFoll/sublimetext-insertdate/tags"
+				}
+			]
 		},
 		{
 			"name": "File History",
-			"description": "(ST2/3) Provides access to the history of recently accessed files - project-wise or globally",
+			"description": "Provides access to the history of recently accessed files - project-wise or globally",
 			"author": "Josh Bjornson",
-			"homepage": "https://github.com/FichteFoll/sublimetext-filehistory",
-			"last_modified": "2013-03-02 00:30:16",
-			"platforms": {
-				"*": [
-					{
-						"version": "1.3.1",
-						"url": "https://codeload.github.com/FichteFoll/sublimetext-filehistory/zip/v1.3.1"
-					}
-				]
-			}
+			"labels": ["file navigation"],
+			"details": "https://github.com/FichteFoll/sublimetext-filehistory",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/FichteFoll/sublimetext-filehistory/tags"
+				}
+			]
 		},
 		{
 			"name": "InactivePanes",
-			"description": "[BETA] (ST2/3) Dims inactive panes in group view and with multiple windows",
+			"description": "Dims inactive panes in group view and with multiple windows",
 			"author": "adzenith, FichteFoll",
-			"homepage": "https://github.com/SublimeText/InactivePanes",
-			"last_modified": "2013-05-31 02:13:34",
-			"platforms": {
-				"*": [
-					{
-						"version": "0.3.1",
-						"url": "https://codeload.github.com/SublimeText/InactivePanes/zip/v0.3.1"
-					}
-				]
-			}
+			"labels": ["color scheme manipulation"],
+			"details": "https://github.com/SublimeText/InactivePanes",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/SublimeText/InactivePanes/tags"
+				}
+			]
 		}
 	]
 }
