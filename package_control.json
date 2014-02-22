@@ -27,6 +27,17 @@
 			]
 		},
 		{
+			"name": "CSScheme",
+			"labels": ["color scheme editing"],
+			"details": "https://github.com/FichteFoll/CSScheme",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/FichteFoll/CSScheme/tags"
+				}
+			]
+		},
+		{
 			"name": "File History",
 			"description": "Provides access to the history of recently accessed files - project-wise or globally",
 			"author": "Josh Bjornson",
