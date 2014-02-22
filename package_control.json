@@ -2,6 +2,19 @@
 	"schema_version": "2.0",
 	"packages": [
 		{
+			"name": "InactivePanes",
+			"description": "Dims inactive panes in group view and with multiple windows",
+			"author": "adzenith, FichteFoll",
+			"labels": ["color scheme manipulation"],
+			"details": "https://github.com/SublimeText/InactivePanes",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/SublimeText/InactivePanes/tags"
+				}
+			]
+		},
+		{
 			"name": "InsertDate",
 			"description": "Insert the current date/time according to given formatting or timezone",
 			"labels": ["text manipulation"],
@@ -23,19 +36,6 @@
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/FichteFoll/sublimetext-filehistory/tags"
-				}
-			]
-		},
-		{
-			"name": "InactivePanes",
-			"description": "Dims inactive panes in group view and with multiple windows",
-			"author": "adzenith, FichteFoll",
-			"labels": ["color scheme manipulation"],
-			"details": "https://github.com/SublimeText/InactivePanes",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"details": "https://github.com/SublimeText/InactivePanes/tags"
 				}
 			]
 		}
