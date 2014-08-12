@@ -3,8 +3,8 @@
 	"packages": [
 		{
 			"name": "InactivePanes",
-			"description": "Dims inactive panes in group view and with multiple windows",
-			"author": "adzenith, FichteFoll",
+			"description": "Dims visible but inactive panes in group views",
+			"author": "FichteFoll",
 			"labels": ["color scheme manipulation"],
 			"details": "https://github.com/SublimeText/InactivePanes",
 			"releases": [
