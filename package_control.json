@@ -1,5 +1,5 @@
 {
-	"schema_version": "2.0",
+	"schema_version": "3.0.0",
 	"packages": [
 		{
 			"name": "InactivePanes",
@@ -10,7 +10,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/SublimeText/InactivePanes/tags"
+					"tags": true
 				}
 			]
 		},
@@ -22,7 +22,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/FichteFoll/sublimetext-insertdate/tags"
+					"tags": true
 				}
 			]
 		},
@@ -33,20 +33,20 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/FichteFoll/CSScheme/tags"
+					"tags": true
 				}
 			]
 		},
 		{
 			"name": "File History",
 			"description": "Provides access to the history of recently accessed files - project-wise or globally",
-			"author": "Josh Bjornson",
+			"author": ["FichteFoll", "Josh Bjornson"],
 			"labels": ["file navigation"],
 			"details": "https://github.com/FichteFoll/sublimetext-filehistory",
 			"releases": [
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/FichteFoll/sublimetext-filehistory/tags"
+					"tags": true
 				}
 			]
 		}
