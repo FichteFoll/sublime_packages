@@ -2,31 +2,6 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
-			"name": "InactivePanes",
-			"description": "Dims visible but inactive panes in group views",
-			"author": "FichteFoll",
-			"labels": ["color scheme manipulation"],
-			"details": "https://github.com/SublimeText/InactivePanes",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": "v"
-				}
-			]
-		},
-		{
-			"name": "InsertDate",
-			"description": "Insert the current date/time according to given formatting or timezone",
-			"labels": ["text manipulation"],
-			"details": "https://github.com/FichteFoll/InsertDate",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": "v"
-				}
-			]
-		},
-		{
 			"name": "CSScheme",
 			"labels": ["color scheme editing"],
 			"details": "https://github.com/FichteFoll/CSScheme",
@@ -47,6 +22,31 @@
 			"author": ["FichteFoll", "Josh Bjornson"],
 			"labels": ["file navigation"],
 			"details": "https://github.com/FichteFoll/FileHistory",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": "v"
+				}
+			]
+		},
+		{
+			"name": "InactivePanes",
+			"description": "Dims visible but inactive panes in group views",
+			"author": "FichteFoll",
+			"labels": ["color scheme manipulation"],
+			"details": "https://github.com/SublimeText/InactivePanes",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": "v"
+				}
+			]
+		},
+		{
+			"name": "InsertDate",
+			"description": "Insert the current date/time according to given formatting or timezone",
+			"labels": ["text manipulation"],
+			"details": "https://github.com/FichteFoll/InsertDate",
 			"releases": [
 				{
 					"sublime_text": "*",
