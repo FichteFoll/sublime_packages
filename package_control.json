@@ -53,6 +53,17 @@
 					"tags": "v"
 				}
 			]
+		},
+		{
+			"name": "QuickRulers",
+			"description": "Easy access to the \"rulers\" setting",
+			"details": "https://github.com/FichteFoll/QuickRulers",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": "v"
+				}
+			]
 		}
 	]
 }
