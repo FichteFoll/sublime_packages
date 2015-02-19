@@ -10,7 +10,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"tags": true
+					"tags": "v"
 				}
 			]
 		},
@@ -22,7 +22,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"tags": true
+					"tags": "v"
 				}
 			]
 		},
@@ -33,7 +33,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"tags": true
+					"tags": "v"
 				},
 				{
 					"sublime_text": "<3000",
@@ -50,7 +50,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"tags": true
+					"tags": "v"
 				}
 			]
 		}
